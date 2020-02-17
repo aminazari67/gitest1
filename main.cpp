@@ -3,6 +3,7 @@
 
 int main(int argc, char *argv[])
 {
+    int i=0;
 
     QApplication a(argc, argv);
     MainWindow w;
